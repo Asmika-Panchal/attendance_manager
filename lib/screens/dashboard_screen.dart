@@ -53,7 +53,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
           NavigationDestination(
             icon: Icon(Icons.fact_check_outlined),
             selectedIcon: Icon(Icons.fact_check),
-            label: 'Attendance',
+            label: 'Attendance Reports',
           ),
           NavigationDestination(
             icon: Icon(Icons.calendar_today_outlined),

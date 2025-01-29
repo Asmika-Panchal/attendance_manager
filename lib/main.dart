@@ -22,7 +22,7 @@ class AttendanceApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.grey[50],
         appBarTheme: const AppBarTheme(
           elevation: 0,
-          backgroundColor: Colors.indigo,
+          backgroundColor: Colors.purple,
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
