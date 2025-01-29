@@ -13,6 +13,7 @@ class _LoginScreenState extends State<LoginScreen> {
   String _password = '';
   bool _isPasswordVisible = false;
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -38,7 +39,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         ),
                         child: const Icon(
                           Icons.school,
-                          size: 64,
+                          size: 63,
                           color: Colors.indigo,
                         ),
                       ),
